@@ -23,8 +23,8 @@ jobs:
 
       - run: npm run build
         env: 
-        TURBO_TOKEN: Or7wByl0zK6a8LLLFzD8iEhL
-        TURBO_TEAM: tialars-projects
+          TURBO_TOKEN: Or7wByl0zK6a8LLLFzD8iEhL
+          TURBO_TEAM: tialars-projects
 
       - name: Deploy storybook
         working-directory: ./packages/docs
