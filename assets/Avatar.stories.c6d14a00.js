@@ -1,0 +1,2 @@
+import{A as t}from"./index.6619d567.js";import"./index.bc53c137.js";import"./iframe.8c8f07a3.js";import"./index.0b05e5b1.js";import"./jsx-runtime.d61ef609.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/tialaR.png",alt:"Tiala Rocha"},argTypes:{src:{control:{type:"text"}}}},p={},l={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,l as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.c6d14a00.js.map
